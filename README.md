@@ -11,9 +11,10 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
 
 - 📫 You can reach me on LinkedIn at: https://www.linkedin.com/in/simmaco-di-maio-6a272023/
 - 📫 And on Twitter: https://twitter.com/sdimaio
+- 📫 Visit my YouTube channel: https://www.youtube.com/channel/UC7dXAXj3Xe2ktoe3UIi997Q
 - 💬 If you have some questions, please ask me on Facebook at: https://www.facebook.com/simmaco.dimaio
 
 
 Have a nice day!
 
-# ![Real quarkus application](simmacode.png)
+# ![SIMMAC{}DE](simmacode.png)
