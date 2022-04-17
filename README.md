@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello Everyone! 👋
 
-<!--
-**sdimaio/sdimaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ✨ Solution Architect and Developer ✨ with a great passion for Information Technology since 1991. 
 
-Here are some ideas to get you started:
+I'm a technology enthusiast and appreciate github open source project for the deep insight of how things work. I'm working as a full time engineer in the mostly proprietary company of Telco, Public Sectors and industrial automation software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also studying Computer Science and Electronic Engineering sible.
+
+
+- 📫 You can reach me on LinkedIn at: https://www.linkedin.com/in/simmaco-di-maio-6a272023/
+- 📫 And on Twitter: https://twitter.com/sdimaio
+- 💬 If you have some questions, please ask me on Facebook at: https://www.facebook.com/simmaco.dimaio
+
+
+Have a nice day!
+
+# ![Real quarkus application](simmacode.png)
