@@ -2,7 +2,7 @@
 
 ### Hello Everyone! 👋
 
-I'm a ✨ Solution Architect and Developer ✨ with a great passion for Information Technology since 1991. 
+This is Simmaco (Simone) Di Maio, self-motivated and self-taught not so famous (yet) Computer Scientist. I'm a ✨ Solution Architect and Developer ✨ with a great passion for Information Technology since 1991. 
 
 I'm a technology enthusiast and appreciate the open source project for the deep insight of how things work. I'm working as a full time engineer in the mostly proprietary company of Telco, Public Sectors and industrial automation software. 
 
