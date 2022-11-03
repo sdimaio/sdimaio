@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sdimaio)
+
 ### Hello Everyone! 👋
 
 I'm a ✨ Solution Architect and Developer ✨ with a great passion for Information Technology since 1991. 
@@ -18,3 +20,14 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
 Have a nice day!
 
 # ![SIMMAC{}DE](simmacode.png)
+
+<a href="mailto:simmaco.dimaio@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/simmaco-di-maio-6a272023/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
+</a>
+<a href="https://twitter.com/sdimaio" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
