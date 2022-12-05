@@ -15,8 +15,57 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
 - 📫 Visit my YouTube channel: https://www.youtube.com/channel/UC7dXAXj3Xe2ktoe3UIi997Q
 - 💬 If you have some questions, please ask me on Facebook at: https://www.facebook.com/simmaco.dimaio
 
+## My current toolbox
 
-### Programming languages and other tools
+<div style="display:inline-block">
+    <a href="https://github.com/search?l=Java&q=user%3Asdimaio&type=Repositories">
+        <img src="assets/java.svg" title="Java" width="40" height="40"/>
+    </a>  
+    <a href="https://github.com/search?l=C&q=user%3Asdimaio&type=Repositories">
+        <img src="assets/c.svg" title="C" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/search?l=Python&q=user%3Asdimaio&type=Repositories">
+        <img src="assets/python.svg" title="Python" width="40" height="40"/>
+    </a>
+    <a href="https://quarkus.io/">
+        <img src="assets/quarkus.svg" title="Quarkus" width="40" height="40"/>
+    <a href="https://spring.io/">
+        <img src="assets/spring.svg" title="Spring" width="40" height="40"/>
+    </a>
+    </a>
+    <a href="https://www.postgresql.org">
+        <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="assets/docker.svg" title="Docker" width="40" height="40"/>
+    </a>
+    <a href="https://www.jenkins.io">
+        <img src="assets/jenkins.svg" title="Jenkins" width="40" height="40"/>
+    </a>
+    <a href="https://kubernetes.io">
+        <img src="assets/kubernetes.svg" title="Kubernetes" width="40" height="40"/>
+    </a>
+<br />
+      <a href="https://github.com/search?q=user%3Asdimaio+react&type=Repositories">
+        <img src="assets/react.svg" title="React" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/">
+        <img src="assets/html.svg" title="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/">
+        <img src="assets/css.svg" title="CSS3" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/search?l=JavaScript&q=user%3Asdimaio&type=Repositories">
+        <img src="assets/javascript.svg" title="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/search?l=TypeScript&q=user%3Asdimaio&type=Repositories">
+        <img src="assets/typescript.svg" title="TypeScript" width="40" height="40"/>
+    </a>
+</div>
+
+<br />
+
+### Programming languages and tools that I love
 <code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-A-blue-icon.png" title="Assembly (Intel/AMD)"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/326/PNG/256/Letter_B_blue_35053.png" title="BASIC Classic/Structured"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
