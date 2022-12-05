@@ -10,11 +10,11 @@ I study Computer Science at [#Unicas](https://www.unicas.it/). Previously, Elect
 In 1991 started coding in Borland [#TurboPascal](https://en.wikipedia.org/wiki/Turbo_Pascal), then in [#C](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [#C++](https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language). So, [#Basic](https://en.wikipedia.org/wiki/BASIC) and both, Motorola & Intel 8086 [#Assembly](https://en.wikipedia.org/wiki/Assembly) language.
 Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [#Python](https://www.python.org/), [#go](https://go.dev/) and now [#RUST](https://www.rust-lang.org/).
 
-
 - 📫 You can reach me on LinkedIn at: https://www.linkedin.com/in/simmaco-di-maio-6a272023/
 - 📫 And on Twitter: https://twitter.com/sdimaio
 - 📫 Visit my YouTube channel: https://www.youtube.com/channel/UC7dXAXj3Xe2ktoe3UIi997Q
 - 💬 If you have some questions, please ask me on Facebook at: https://www.facebook.com/simmaco.dimaio
+
 
 ### Programming languages and other tools
 <code><img height="20" src="https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/256/Letter-A-blue-icon.png" title="Assembly (Intel/AMD)"></code>
@@ -51,7 +51,7 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" title="Windows"></code>
 <i>Operating systems</i>
-
+***
 
 Have a nice day!
 
