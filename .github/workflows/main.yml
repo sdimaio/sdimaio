@@ -19,6 +19,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
+          # github_pat_11
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
