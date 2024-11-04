@@ -24,27 +24,33 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
     <a href="https://github.com/search?l=C&q=user%3Asdimaio&type=Repositories">
         <img src="assets/c.svg" title="C" width="40" height="40"/>
     </a>
+    <a href="https://spring.io/">
+        <img src="assets/spring.svg" title="Spring" width="40" height="40"/>
+    </a>
+    <a href="https://kubernetes.io">
+        <img src="assets/kubernetes.svg" title="Kubernetes" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="assets/docker.svg" title="Docker" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org">
+        <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.rust-lang.org/">
+        <img src="assets/rust-svgrepo-com.svg" title="Rust" width="40" height="40"/>
+    </a>
     <a href="https://github.com/search?l=Python&q=user%3Asdimaio&type=Repositories">
         <img src="assets/python.svg" title="Python" width="40" height="40"/>
     </a>
     <a href="https://quarkus.io/">
         <img src="assets/quarkus.svg" title="Quarkus" width="40" height="40"/>
-    <a href="https://spring.io/">
-        <img src="assets/spring.svg" title="Spring" width="40" height="40"/>
-    </a>
-    </a>
-    <a href="https://www.postgresql.org">
-        <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="assets/docker.svg" title="Docker" width="40" height="40"/>
     </a>
     <a href="https://www.jenkins.io">
         <img src="assets/jenkins.svg" title="Jenkins" width="40" height="40"/>
     </a>
-    <a href="https://kubernetes.io">
-        <img src="assets/kubernetes.svg" title="Kubernetes" width="40" height="40"/>
-    </a>
+    <a href="https://www.latex-project.org/">
+        <img src="assets/latex-svgrepo-com.svg" title="Latex" width="40" height="40"/>
+    </a>    
 <br />
       <a href="https://github.com/search?q=user%3Asdimaio+react&type=Repositories">
         <img src="assets/react.svg" title="React" width="40" height="40"/>
