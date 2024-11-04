@@ -49,7 +49,7 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
         <img src="assets/jenkins.svg" title="Jenkins" width="40" height="40"/>
     </a>
     <a href="https://www.latex-project.org/">
-        <img src="assets/latex-svgrepo-com.svg" title="Latex" width="40" height="40"/>
+        <img src="assets/latex-svgrepo-com.png" title="Latex" width="40" height="40"/>
     </a>    
 <br />
       <a href="https://github.com/search?q=user%3Asdimaio+react&type=Repositories">
