@@ -37,7 +37,7 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
         <img src="assets/postgresql.svg" title="PostgreSQL" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org/">
-        <img src="assets/rust-svgrepo-com.svg" title="Rust" width="40" height="40"/>
+        <img src="assets/rust-svgrepo-com.png" title="Rust" width="40" height="40"/>
     </a>
     <a href="https://github.com/search?l=Python&q=user%3Asdimaio&type=Repositories">
         <img src="assets/python.svg" title="Python" width="40" height="40"/>
