@@ -15,11 +15,6 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
 - 📫 Visit my YouTube channel: https://www.youtube.com/channel/UC7dXAXj3Xe2ktoe3UIi997Q
 - 💬 If you have some questions, please ask me on Facebook at: https://www.facebook.com/simmaco.dimaio
 
-<a href="mailto:simmaco.dimaio@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
-  <img src="asset/20250807_1011_Programmatore Stilizzato_remix_01k21s8m2hebgvrrd1mr0bn4q2.png"/>
-</a>
-
-
 ## My current toolbox
 
 <div style="display:inline-block">
@@ -111,11 +106,20 @@ Since 1999 until now I use [#Java](https://openjdk.java.net/) but I enjoy with [
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" title="Windows"></code>
 <i>Operating systems</i>
-***
+
 
 Have a nice day!
-
+***
+External links: 
 # ![SIMMAC{}DE](simmacode.png)
+
+
+Contacts:
+<div style="display:inline-block">
+  <a href="mailto:simmaco.dimaio@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+    <img src="assets/20250807_1011_Programmatore1.png"/>
+  </a>
+</div> 
 
 <a href="mailto:simmaco.dimaio@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
